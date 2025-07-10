@@ -44,6 +44,7 @@ MatrixPackage/
 │ ├── Matrix.java
 │ ├── MatrixOperations.java (optional if exists)
 │ └── MatrixException.java
+└── README.md
 
 
 📌 **Note:**  
