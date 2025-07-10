@@ -36,15 +36,8 @@ The `Matrices` package supports the following operations:
 
 ## 📂 Project Structure
 
-MatrixPackage/
-├── JavaPackage/
-│ └── src/
-│ └── Main.java <-- Usage Guide
-├── Matrices/
-│ ├── Matrix.java
-│ ├── MatrixOperations.java (optional if exists)
-│ └── MatrixException.java
-└── README.md
+MatrixPackage/ [ JavaPackage/src/Main.java | Matrices/Matrix.java, MatrixOperations.java (optional), MatrixException.java ]
+
 
 
 📌 **Note:**  
